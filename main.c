@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-
 int main() {
     int *vetor, tamanho, i;
     scanf("%d", &tamanho);
